@@ -1,1 +1,4 @@
-# AI_LAB_Devansh_076
+# AI-LAB-Devansh-076
+## Subject: AI Lab
+## Name: Devansh Motghare
+## PRN: 22070521076
